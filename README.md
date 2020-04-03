@@ -8,3 +8,5 @@ Esse repositório está servindo para a revisão de Git.
 - Bullet points
 
 -----
+
+Esse repositório ignora todos os arquivos .csv e todos os arquivos que começam com a letra h.
